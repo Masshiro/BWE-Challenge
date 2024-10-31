@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+# datasets
+data/emulated/**/*
+data/testbed/**/*
